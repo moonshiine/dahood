@@ -2,7 +2,7 @@
 in case you're a skid and you found this
 -this uses fflags
 -and I won't give you the source, hehehe
--teto
+-teto v2
 my discord: martinchuw
 getgenv().Network = {
     Desync = true,
